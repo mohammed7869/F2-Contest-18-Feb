@@ -1,0 +1,103 @@
+body{
+    background-color: black;
+}
+h1{
+    
+position: absolute;
+width: 647px;
+height: 58px;
+left: 65px;
+top: 62px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.container label{
+position: absolute;
+width: 131px;
+height: 29px;
+left: 65px;
+top: 186px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.container input{
+margin-top: 10px;
+box-sizing: border-box;
+position: absolute;
+width: 450px;
+height: 50px;
+left: 241px;
+top: 167px;
+color: white;
+background-color: black;
+border: 1px solid #FFFFFF
+}
+.container-1 label{
+position: absolute;
+width: 109px;
+height: 29px;
+left: 65px;
+top: 280px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.container-1 input{
+box-sizing: border-box;
+position: absolute;
+width: 450px;
+height: 50px;
+left: 241px;
+top: 261px;
+color: white;
+background-color: black;
+border: 1px solid #FFFFFF;
+}
+button{
+    position: absolute;
+    width: 630px;
+    height: 57px;
+    left: 65px;
+    top: 330px;
+    background: #FFFFFF;
+}
+table{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1300px;
+    height: 300px;
+    left: 73px;
+    top: 435px;
+    border: 1px solid #FFFFFF;
+    border-collapse: collapse;
+}
+table tr{
+position: relative;
+text-align: left;
+left: 20px;
+color: #FFFFFF;
+border-left: 1px solid #f6f4f4;
+  border-right: 1px solid #fcf9f9;
+ 
+}
+table td {
+    border-left: 1px solid #ece6e6;
+    border-right: 1px solid #f9f6f6;
+}
+table th{
+    border-bottom: 1px solid white;
+    border-left: 1px solid #ece6e6;
+    border-right: 1px solid #f9f6f6;
+}
